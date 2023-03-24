@@ -5,9 +5,9 @@ import (
 	"time"
 )
 
-const UserCount = 1000
-const CompanyCount = 1000
-const ReturnCount = 1000
+const UserCount = 20
+const CompanyCount = 100
+const ReturnCount = 100
 
 type Entity interface {
 }
